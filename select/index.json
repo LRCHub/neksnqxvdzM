@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Streamer",
+  "base_artist": "すとぷり",
+  "createdAt": "2026-03-30T14:14:38.543479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Streamer",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/01_Streamer_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer",
+      "artist": "Mori Calliope / 森カリオペ",
+      "has_synced": true,
+      "path": "select/02_The_Grim_Reaper_is_a_Live-Streamer_Mori_Calliope___森カリオペ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/03_The_Grim_Reaper_is_a_Live-Streamer_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer - Lofi Ver.",
+      "artist": "Mori Calliope / 森カリオペ",
+      "has_synced": true,
+      "path": "select/04_The_Grim_Reaper_is_a_Live-Streamer_-_Lofi_Ver._Mori_Calliope___森カリオペ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer - Lofi Ver.",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/05_The_Grim_Reaper_is_a_Live-Streamer_-_Lofi_Ver._Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/06_The_Grim_Reaper_is_a_Live-Streamer_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live‐Streamer (Lofi Ver.)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/07_The_Grim_Reaper_is_a_Live‐Streamer_(Lofi_Ver.)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer",
+      "artist": "Mori Calliope / 森カリオペ",
+      "has_synced": true,
+      "path": "select/08_The_Grim_Reaper_is_a_Live-Streamer_Mori_Calliope___森カリオペ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live‐Streamer",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/09_The_Grim_Reaper_is_a_Live‐Streamer_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Streamer Christmas Medley",
+      "artist": "StreamBeats Originals",
+      "has_synced": true,
+      "path": "select/10_The_Streamer_Christmas_Medley_StreamBeats_Originals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Grim Reaper is a Live-Streamer",
+      "artist": "Calliope Mori",
+      "has_synced": true,
+      "path": "select/11_The_Grim_Reaper_is_a_Live-Streamer_Calliope_Mori.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Streamer",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/12_Streamer_すとぷり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Streamer",
+      "artist": "すとぷり",
+      "has_synced": false,
+      "path": "select/pl_01_Streamer_すとぷり.txt"
+    }
+  ]
+}
